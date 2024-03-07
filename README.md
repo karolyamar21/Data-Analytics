@@ -12,4 +12,4 @@
 ![icon_appstore__ev0z770zyxoy_large_2x](https://github.com/karolyamar21/Data-Analytics/assets/137465006/31f70454-0b7a-40ee-b1d5-966e9ee1d38d)
 
 
-#### View project: https://karolyamar21.github.io/Project-1-Apple-App-Store-Analysis-using-SQL/
+#### View project: [Project 1:Apple App Store Analysis](https://karolyamar21.github.io/Project-1-Apple-App-Store-Analysis-using-SQL/)
