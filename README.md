@@ -49,4 +49,4 @@
 ![COVID-19 Global Vaccine Tracker](https://github.com/karolyamar21/karolyamar21/assets/137465006/ec1dec76-9956-4a6c-acd7-852c1fea7eef)
 
 
-View in Tableau: https://public.tableau.com/views/COVID-19GlobalVaccineTracker_17097404892030/COVID-19GlobalVaccineTracker?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+[View in Tableau:](https://public.tableau.com/views/COVID-19GlobalVaccineTracker_17097404892030/COVID-19GlobalVaccineTracker?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
