@@ -15,7 +15,7 @@
 
 [![images](https://github.com/karolyamar21/karolyamar21/assets/137465006/bbc2206b-3b42-4cca-b8c5-b707e92999a4)](https://github.com/karolyamar21#sql-projects)
 
-[![tableau-logo-tableau-software](https://github.com/karolyamar21/karolyamar21/assets/137465006/2c2a4f91-1db7-4f1e-97b7-7f1d1f868bff)](https://github.com/karolyamar21#tableau-projects)
+[![tableau-logo-tableau-software](https://github.com/karolyamar21/karolyamar21/assets/137465006/2c2a4f91-1db7-4f1e-97b7-7f1d1f868bff)](https://github.com/karolyamar21/Data-Analytic#tableau-projects)
 
 
 
