@@ -17,6 +17,7 @@
 
 [![tableau-logo-tableau-software](https://github.com/karolyamar21/karolyamar21/assets/137465006/2c2a4f91-1db7-4f1e-97b7-7f1d1f868bff)](https://github.com/karolyamar21/Data-Analytic#tableau-projects)
 
+[![0_JO_ISml7vNO8GDlS](https://github.com/karolyamar21/Data-Analytics/assets/137465006/018d3c1d-7918-40e7-a0eb-50e533b5ded3)](https://github.com/karolyamar21/Project-2-COVID-19-Death-Analysis-using-R)
 
 
 
@@ -33,6 +34,14 @@
 #### View project: [Project 1:Apple App Store Analysis](https://karolyamar21.github.io/Project-1-Apple-App-Store-Analysis-using-SQL/)
 
 
+# R Programming
+
+## Project-2-COVID-19-Death-Analysis-using-R
+
+![patient-getting-covid-test](https://github.com/karolyamar21/Data-Analytics/assets/137465006/3bbe7166-47c0-42f1-a8e4-e061291f861b)
+
+
+#### View project: [Project-2-COVID-19-Death-Analysis-using-R](https://github.com/karolyamar21/Project-2-COVID-19-Death-Analysis-using-R)
 
 # Data Visiualization
 
@@ -41,7 +50,7 @@
 ![tableau-logo-tableau-software](https://github.com/karolyamar21/karolyamar21/assets/137465006/9d80aaf1-8f0c-4c03-abe7-c3e3942a8e09)
 
 
-## Project 1: COVID-19 Global Vaccine Tracker
+## Project 3: COVID-19 Global Vaccine Tracker
 
 #### View project: 
 
