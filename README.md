@@ -15,9 +15,10 @@
 
 [![images](https://github.com/karolyamar21/karolyamar21/assets/137465006/bbc2206b-3b42-4cca-b8c5-b707e92999a4)](https://github.com/karolyamar21#sql-projects)
 
-[![tableau-logo-tableau-software](https://github.com/karolyamar21/karolyamar21/assets/137465006/2c2a4f91-1db7-4f1e-97b7-7f1d1f868bff)](https://github.com/karolyamar21/Data-Analytic#tableau-projects)
+[![tableau-logo-tableau-software](https://github.com/karolyamar21/karolyamar21/assets/137465006/2c2a4f91-1db7-4f1e-97b7-7f1d1f868bff)](https://public.tableau.com/app/profile/karoline.grace.yamar.de.la.torre/vizzes)
 
 [![0_JO_ISml7vNO8GDlS](https://github.com/karolyamar21/Data-Analytics/assets/137465006/018d3c1d-7918-40e7-a0eb-50e533b5ded3)](https://github.com/karolyamar21/Project-2-COVID-19-Death-Analysis-using-R)
+[![maxresdefaultreduced](https://github.com/karolyamar21/Data-Analytics/assets/137465006/3ef95298-5880-4e67-9ea9-4551322e4d59)](https://github.com/karolyamar21/Project-4-Power-BI-Coca-Cola-Sales-Dashbaord)
 
 
 
@@ -59,3 +60,12 @@
 
 
 [View in Tableau:](https://public.tableau.com/views/COVID-19GlobalVaccineTracker_17097404892030/COVID-19GlobalVaccineTracker?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+
+## Power BI
+
+## Project 4: Power-BI-Coca-Cola-Sales-Dashbaord
+![311479362-ade67be6-f175-41a1-888c-f4d562aec814](https://github.com/karolyamar21/Data-Analytics/assets/137465006/af146b5b-191c-4b7e-9342-29ec66d71eb3)
+
+#### View Project: [Power-BI-Coca-Cola-Sales-Dashbaord](https://github.com/karolyamar21/Project-4-Power-BI-Coca-Cola-Sales-Dashbaord?tab=readme-ov-file)
+
